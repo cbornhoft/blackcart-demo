@@ -56,7 +56,7 @@ To run the full test suite, simply run
     ./vendor/bin/sail artisan test
 
 For manual testing, you'll need to register a user and create a token. See
-[API Usage and Endpoints](https://github.com/cbornhoft/blackcart-demo/API-USAGE.md)
+[API Usage and Endpoints](https://github.com/cbornhoft/blackcart-demo/blob/master/API-USAGE.md)
 for how to make those requests.
 
 ---

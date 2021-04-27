@@ -16,5 +16,5 @@ This demo comes with a few features to make stores secure and easy to manage:
 
 Links to more in-depth documentation is below:
 
-### [Developer Setup](https://github.com/cbornhoft/blackcart-demo/INTERNALS.md)
-### [API Usage and Endpoints](https://github.com/cbornhoft/blackcart-demo/API-USAGE.md)
+### [Developer Setup](https://github.com/cbornhoft/blackcart-demo/blob/master/INTERNALS.md)
+### [API Usage and Endpoints](https://github.com/cbornhoft/blackcart-demo/blob/master/API-USAGE.md)
